@@ -1,0 +1,19 @@
+{
+  "name": "set-phone-with-modal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modal",
+    "phone",
+    "javascript"
+  ],
+  "author": "Marat Prokudin",
+  "license": "MIT",
+  "description": "Provides method setPhone which renders modal window with input and button to save inputted phone to localstorage",
+  "publishConfig": {
+    "access": "public"
+  }
+}
